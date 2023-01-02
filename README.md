@@ -10,20 +10,21 @@
 
 ###
 
-<p align="left">😊 My pronouns are he/him<br>📚 I'm currently studying Typescript (and Italian, but that's not a programming language)<br>🎯 Goals: I aim to learn more languages and use my knowledge to transform peoples lives :)<br>👨‍🎓  Degree: I am also graduating in Production Engineering from Universidade Federal Fluminense<br>📸 I love learning new languages and visiting new places<br>📧 Feel free to reach me on Linkedin or via email: rodrigocortibarros@gmail.com<br>🎲 Fun fact: I lived in Finland for 6 months where I met Santa Claus and saw the Northern Lights ❄</p>
+<p align="left">😊 My pronouns are he/him<br>📚 I'm currently studying Docker/AWS (and Italian, but that's not a programming language)<br>🎯 Goals: I aim to learn more languages and use my knowledge to transform peoples lives :)<br>👨‍🎓  Degree: I am also graduating in Production Engineering from Universidade Federal Fluminense<br>📸 I love learning new languages and visiting new places<br>📧 Feel free to reach me on Linkedin or via email: rodrigocortibarros@gmail.com<br>🎲 Fun fact: I lived in Finland for 6 months where I met Santa Claus and saw the Northern Lights ❄</p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">I mainly code with</h2>
 
 ###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
 </div>
 
 ###
@@ -33,11 +34,14 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" width="52" alt="express logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="52" alt="mongodb logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="52" alt="postgresql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" width="52" alt="jest logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" width="52" alt="redis logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="52" alt="docker logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" width="52" alt="amazonwebservices logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" width="52" alt="cplusplus logo"  />
 </div>
 
