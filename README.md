@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a brazilian fullstack web developer living in Rio de Janeiro. 🌎 I love adventures and becoming a developer sure has been a fun one.<br><br>I am currently a student at Driven, a Software Engineering school</p>
+<p align="left">I'm a brazilian fullstack web developer living in Rio de Janeiro. 🌎 I love adventures and becoming a developer sure has been a fun one.<br><br>I am currently looking for an opportunity :)</p>
 
 ###
 
