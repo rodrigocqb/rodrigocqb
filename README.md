@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a brazilian Full Stack Software Engineer living in Rio de Janeiro. 🌎 I love adventures and becoming a developer sure has been a fun one.<br><br>I am currently working at RBNA Consult :)</p>
+<p align="left">I'm a brazilian Full Stack Software Engineer living in Rio de Janeiro. 🌎 I love adventures and becoming a developer sure has been a fun one.<br><br>I am currently working at BTG Pactual :)</p>
 
 ###
 
