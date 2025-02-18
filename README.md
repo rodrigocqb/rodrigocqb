@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">😊 My pronouns are he/him<br>📚 I'm currently studying NextJS (and Italian, but that's not a programming language)<br>🎯 Goals: I aim to learn more languages and use my knowledge to transform peoples lives :)<br>👨‍🎓  Degree: I am also graduating in Production Engineering from Universidade Federal Fluminense<br>📸 I love learning new languages and visiting new places<br>📧 Feel free to reach me on Linkedin or via email: rodrigocortibarros@gmail.com<br>🎲 Fun fact: I lived in Finland for 6 months where I met Santa Claus and saw the Northern Lights ❄</p>
+<p align="left">😊 My pronouns are he/him<br>📚 I'm currently studying C#/.NET (and Italian, but that's not a programming language)<br>🎯 Goals: I aim to learn more languages and use my knowledge to transform peoples lives :)<br>👨‍🎓  Degree: I am also graduating in Production Engineering from Universidade Federal Fluminense<br>📸 I love learning new languages and visiting new places<br>📧 Feel free to reach me on Linkedin or via email: rodrigocortibarros@gmail.com<br>🎲 Fun fact: I lived in Finland for 6 months where I met Santa Claus and saw the Northern Lights ❄</p>
 
 ###
 
